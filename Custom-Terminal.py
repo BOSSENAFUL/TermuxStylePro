@@ -57,12 +57,12 @@ def print_banner():
 ║                                                               ║
 ║            Create Your Custom Cyberpunk Terminal              ║
 ║                                                               ║
+║
 ║          {Colors.GRAY}Credits: ABIR/ENAFUL{Colors.CYAN}                             ║
-║    {Colors.GRAY}GitHub: https://github.com/CYBER71BOSSENAFUL/Custom-Terminal.git}             ║
+║    {Colors.GRAY}GitHub: https://github.com/CYBER71BOSSENAFUL/Custom-Terminal.git    >
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝{Colors.RESET}
 """)
-
 def get_all_styles():
     """Return all 100 terminal styles"""
     return [

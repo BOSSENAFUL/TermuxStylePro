@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# 🌐CYBER🌐71🌐ENAFUL🌐 Terminal Launcher
+# BOSS Terminal Launcher
 
 clear
 
 echo ""
 echo "╔═══════════════════════════════════════════════════════════════╗"
-echo "║               🌐CYBER🌐BOSS🌐ENAFUL🌐 TERMINAL LAUNCHER                "
+echo "║               BOSS TERMINAL LAUNCHER                "
 echo "╚═══════════════════════════════════════════════════════════════╝"
 echo ""
 echo "Select your terminal:"
