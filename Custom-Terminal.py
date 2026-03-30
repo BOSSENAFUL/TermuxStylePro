@@ -57,7 +57,7 @@ def print_banner():
 ║                                                               ║
 ║            Create Your Custom Cyberpunk Terminal              ║
 ║                                                               ║
-║          {Colors.GRAY}Credits: 007Team/ENAFUL{Colors.CYAN}                             ║
+║          {Colors.GRAY}Credits: ABIR/ENAFUL{Colors.CYAN}                             ║
 ║    {Colors.GRAY}GitHub: https://github.com/CYBER71BOSSENAFUL/Custom-Terminal.git}             ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝{Colors.RESET}
