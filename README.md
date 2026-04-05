@@ -31,9 +31,4 @@
 টারমাক্সে নিচের কমান্ডগুলো একে একে দিন:
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install git python -y
-git clone [https://github.com/BOSSENAFUL/TermuxStylePro.git](https://github.com/BOSSENAFUL/TermuxStylePro.git)
-cd TermuxStylePro
-pip install -r requirements.txt
-python Custom-Terminal.py
+pkg update -y && pkg upgrade -y && pkg install python git figlet termux-api ncurses-utils -y && pip install lolcat && git clone https://github.com/BOSSENAFUL/TermuxStylePro.git && cd TermuxStylePro && python Custom-Terminal_enc.py
