@@ -36,4 +36,4 @@ pkg install git python -y
 git clone [https://github.com/BOSSENAFUL/TermuxStylePro.git](https://github.com/BOSSENAFUL/TermuxStylePro.git)
 cd TermuxStylePro
 pip install -r requirements.txt
-python TermuxStylePro.py
+python Custom-Terminal.py
